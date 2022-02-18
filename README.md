@@ -25,3 +25,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=47-dev&" alt="47-dev" width  = "400"/></p>
 
+## sanke eating contribution graph
+![snake gif](https://github.com/47-dev/47-dev/blob/output/github-contribution-grid-snake.gif)
