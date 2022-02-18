@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **c++-DSA, Coding Ningas DSA course.**
 
-- 💬 Ask me about **c++,MySQL, Java, Ideas**
+- 💬 Ask me about **c++,Devlopment, Block chian, Networking. **
 
 - 📫 How to reach me **syrajveer639@gmail.com**
 
