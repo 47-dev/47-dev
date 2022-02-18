@@ -24,7 +24,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/syRAJVEER"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="200" alt="https://www.buymeacoffee.com/syRAJVEER" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=47-dev&show_icons=true&locale=en&layout=compact" alt="47-dev" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=47-dev&show_icons=true&locale=en&layout=compact" alt="47-dev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=47-dev&show_icons=true&locale=en" alt="47-dev" /></p>
 
