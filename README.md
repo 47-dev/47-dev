@@ -9,9 +9,9 @@
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=47-dev&label=Profile%20views&color=0e75b6&style=flat" alt="47-dev" /> </p>
 <p align="left"> <a href="https://twitter.com/@syrajveer" target="_blank"><img src="https://img.shields.io/twitter/follow/@syrajveer?logo=twitter&style=for-the-badge" alt="@syrajveer" /></a> </p>
 
-- 🌱 I’m currently learning **c++-DSA, Coding Ningas DSA course.**
+- 🌱 I’m currently learning **Machine Learning.**
 
-- 💬 Ask me about **c++,Devlopment, Block chian, Networking. **
+- 💬 Ask me about **Full Stack Web Devlopment,Machine Learning, Idea's and Innovation for problem solving, Networking. **
 
 - 📫 How to reach me **syrajveer639@gmail.com**
 
