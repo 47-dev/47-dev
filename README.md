@@ -24,5 +24,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=47-dev&" alt="47-dev" width  = "400"/></p>
 
-https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif
+https://github.com/47-dev/47-dev/blob/output/github-contribution-grid-snake.gif
 
