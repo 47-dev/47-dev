@@ -26,8 +26,4 @@
 
 ## sanke eating contribution graph
 ![snake gif](https://github.com/47-dev/47-dev/blob/2f034b85bd0a2600d818a2ef260cd007ad4d313d/github-contribution-grid-snake.gif)
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+
