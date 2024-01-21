@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Full Stack Web Devlopment,Machine Learning, Idea's and Innovation for problem solving, Networking. **
 
-- 📫 How to reach me **syrajveer639@gmail.com**
+- 📫 How to reach me **syrajveerdev@gmail.com**
 
 
 
